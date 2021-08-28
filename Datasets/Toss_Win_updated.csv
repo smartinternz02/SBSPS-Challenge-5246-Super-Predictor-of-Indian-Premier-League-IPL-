@@ -1,0 +1,436 @@
+,Team,Toss Winner and Winner,Winning Chance For the Toss Winner
+0,Chennai Super Kings,Chennai Super Kings,0.001183431952662722
+1,Rajasthan Royals,Rajasthan Royals,0.002366863905325444
+2,Rajasthan Royals,Rajasthan Royals,0.0035502958579881655
+3,Deccan Chargers,Deccan Chargers,0.004733727810650888
+4,Chennai Super Kings,Chennai Super Kings,0.005917159763313609
+5,Punjab Kings,Punjab Kings,0.007100591715976331
+6,Rajasthan Royals,Rajasthan Royals,0.008284023668639054
+7,Punjab Kings,Punjab Kings,0.009467455621301775
+8,Punjab Kings,Punjab Kings,0.010650887573964497
+9,Deccan Chargers,Deccan Chargers,0.011834319526627219
+10,Mumbai Indians,Mumbai Indians,0.01301775147928994
+11,Chennai Super Kings,Chennai Super Kings,0.014201183431952662
+12,Kolkata Knight Riders,Kolkata Knight Riders,0.015384615384615385
+13,Rajasthan Royals,Rajasthan Royals,0.016568047337278107
+14,Mumbai Indians,Mumbai Indians,0.01775147928994083
+15,Kolkata Knight Riders,Kolkata Knight Riders,0.01893491124260355
+16,Rajasthan Royals,Rajasthan Royals,0.020118343195266272
+17,Kolkata Knight Riders,Kolkata Knight Riders,0.021301775147928994
+18,Mumbai Indians,Mumbai Indians,0.022485207100591716
+19,Mumbai Indians,Mumbai Indians,0.023668639053254437
+20,Delhi Capitals,Delhi Capitals,0.02485207100591716
+21,Rajasthan Royals,Rajasthan Royals,0.02603550295857988
+22,Royal Challengers Bangalore,Royal Challengers Bangalore,0.027218934911242602
+23,Punjab Kings,Punjab Kings,0.028402366863905324
+24,Delhi Capitals,Delhi Capitals,0.029585798816568046
+25,Rajasthan Royals,Rajasthan Royals,0.03076923076923077
+26,Rajasthan Royals,Rajasthan Royals,0.03195266272189349
+27,Rajasthan Royals,Rajasthan Royals,0.033136094674556214
+28,Royal Challengers Bangalore,Royal Challengers Bangalore,0.03431952662721893
+29,Delhi Capitals,Delhi Capitals,0.03550295857988166
+30,Chennai Super Kings,Chennai Super Kings,0.036686390532544376
+31,Kolkata Knight Riders,Kolkata Knight Riders,0.0378698224852071
+32,Deccan Chargers,Deccan Chargers,0.03905325443786982
+33,Delhi Capitals,Delhi Capitals,0.040236686390532544
+34,Deccan Chargers,Deccan Chargers,0.04142011834319527
+35,Punjab Kings,Punjab Kings,0.04260355029585799
+36,Deccan Chargers,Deccan Chargers,0.04378698224852071
+37,Mumbai Indians,Mumbai Indians,0.04497041420118343
+38,Punjab Kings,Punjab Kings,0.046153846153846156
+39,Delhi Capitals,Delhi Capitals,0.047337278106508875
+40,Mumbai Indians,Mumbai Indians,0.0485207100591716
+41,Royal Challengers Bangalore,Royal Challengers Bangalore,0.04970414201183432
+42,Chennai Super Kings,Chennai Super Kings,0.05088757396449704
+43,Deccan Chargers,Deccan Chargers,0.05207100591715976
+44,Rajasthan Royals,Rajasthan Royals,0.05325443786982249
+45,Chennai Super Kings,Chennai Super Kings,0.054437869822485205
+46,Punjab Kings,Punjab Kings,0.05562130177514793
+47,Mumbai Indians,Mumbai Indians,0.05680473372781065
+48,Delhi Capitals,Delhi Capitals,0.05798816568047337
+49,Deccan Chargers,Deccan Chargers,0.05917159763313609
+50,Royal Challengers Bangalore,Royal Challengers Bangalore,0.06035502958579882
+51,Rajasthan Royals,Rajasthan Royals,0.06153846153846154
+52,Punjab Kings,Punjab Kings,0.06272189349112427
+53,Deccan Chargers,Deccan Chargers,0.06390532544378698
+54,Delhi Capitals,Delhi Capitals,0.0650887573964497
+55,Kolkata Knight Riders,Kolkata Knight Riders,0.06627218934911243
+56,Chennai Super Kings,Chennai Super Kings,0.06745562130177515
+57,Delhi Capitals,Delhi Capitals,0.06863905325443787
+58,Royal Challengers Bangalore,Royal Challengers Bangalore,0.06982248520710059
+59,Deccan Chargers,Deccan Chargers,0.07100591715976332
+60,Royal Challengers Bangalore,Royal Challengers Bangalore,0.07218934911242604
+61,Mumbai Indians,Mumbai Indians,0.07337278106508875
+62,Delhi Capitals,Delhi Capitals,0.07455621301775148
+63,Kolkata Knight Riders,Kolkata Knight Riders,0.0757396449704142
+64,Deccan Chargers,Deccan Chargers,0.07692307692307693
+65,Delhi Capitals,Delhi Capitals,0.07810650887573964
+66,Chennai Super Kings,Chennai Super Kings,0.07928994082840236
+67,Royal Challengers Bangalore,Royal Challengers Bangalore,0.08047337278106509
+68,Rajasthan Royals,Rajasthan Royals,0.08165680473372781
+69,Deccan Chargers,Deccan Chargers,0.08284023668639054
+70,Mumbai Indians,Mumbai Indians,0.08402366863905325
+71,Kolkata Knight Riders,Kolkata Knight Riders,0.08520710059171598
+72,Rajasthan Royals,Rajasthan Royals,0.0863905325443787
+73,Delhi Capitals,Delhi Capitals,0.08757396449704143
+74,Mumbai Indians,Mumbai Indians,0.08875739644970414
+75,Delhi Capitals,Delhi Capitals,0.08994082840236686
+76,Kolkata Knight Riders,Kolkata Knight Riders,0.09112426035502959
+77,Chennai Super Kings,Chennai Super Kings,0.09230769230769231
+78,Mumbai Indians,Mumbai Indians,0.09349112426035502
+79,Delhi Capitals,Delhi Capitals,0.09467455621301775
+80,Rajasthan Royals,Rajasthan Royals,0.09585798816568047
+81,Chennai Super Kings,Chennai Super Kings,0.0970414201183432
+82,Kolkata Knight Riders,Kolkata Knight Riders,0.09822485207100591
+83,Deccan Chargers,Deccan Chargers,0.09940828402366864
+84,Royal Challengers Bangalore,Royal Challengers Bangalore,0.10059171597633136
+85,Mumbai Indians,Mumbai Indians,0.10177514792899409
+86,Deccan Chargers,Deccan Chargers,0.10295857988165681
+87,Chennai Super Kings,Chennai Super Kings,0.10414201183431952
+88,Deccan Chargers,Deccan Chargers,0.10532544378698225
+89,Mumbai Indians,Mumbai Indians,0.10650887573964497
+90,Chennai Super Kings,Chennai Super Kings,0.1076923076923077
+91,Chennai Super Kings,Chennai Super Kings,0.10887573964497041
+92,Chennai Super Kings,Chennai Super Kings,0.11005917159763313
+93,Rajasthan Royals,Rajasthan Royals,0.11124260355029586
+94,Kolkata Knight Riders,Kolkata Knight Riders,0.11242603550295859
+95,Mumbai Indians,Mumbai Indians,0.1136094674556213
+96,Punjab Kings,Punjab Kings,0.11479289940828402
+97,Kolkata Knight Riders,Kolkata Knight Riders,0.11597633136094675
+98,Kochi Tuskers Kerala,Kochi Tuskers Kerala,0.11715976331360947
+99,Chennai Super Kings,Chennai Super Kings,0.11834319526627218
+100,Punjab Kings,Punjab Kings,0.11952662721893491
+101,Delhi Capitals,Delhi Capitals,0.12071005917159763
+102,Kolkata Knight Riders,Kolkata Knight Riders,0.12189349112426036
+103,Kochi Tuskers Kerala,Kochi Tuskers Kerala,0.12307692307692308
+104,Deccan Chargers,Deccan Chargers,0.1242603550295858
+105,Royal Challengers Bangalore,Royal Challengers Bangalore,0.12544378698224853
+106,Rajasthan Royals,Rajasthan Royals,0.12662721893491125
+107,Royal Challengers Bangalore,Royal Challengers Bangalore,0.12781065088757396
+108,Rajasthan Royals,Rajasthan Royals,0.1289940828402367
+109,Delhi Capitals,Delhi Capitals,0.1301775147928994
+110,Kolkata Knight Riders,Kolkata Knight Riders,0.13136094674556212
+111,Rajasthan Royals,Rajasthan Royals,0.13254437869822486
+112,Chennai Super Kings,Chennai Super Kings,0.13372781065088757
+113,Kochi Tuskers Kerala,Kochi Tuskers Kerala,0.1349112426035503
+114,Delhi Capitals,Delhi Capitals,0.13609467455621302
+115,Royal Challengers Bangalore,Royal Challengers Bangalore,0.13727810650887573
+116,Chennai Super Kings,Chennai Super Kings,0.13846153846153847
+117,Punjab Kings,Punjab Kings,0.13964497041420118
+118,Royal Challengers Bangalore,Royal Challengers Bangalore,0.1408284023668639
+119,Deccan Chargers,Deccan Chargers,0.14201183431952663
+120,Kochi Tuskers Kerala,Kochi Tuskers Kerala,0.14319526627218934
+121,Deccan Chargers,Deccan Chargers,0.14437869822485208
+122,Punjab Kings,Punjab Kings,0.1455621301775148
+123,Chennai Super Kings,Chennai Super Kings,0.1467455621301775
+124,Kolkata Knight Riders,Kolkata Knight Riders,0.14792899408284024
+125,Royal Challengers Bangalore,Royal Challengers Bangalore,0.14911242603550295
+126,Mumbai Indians,Mumbai Indians,0.1502958579881657
+127,Chennai Super Kings,Chennai Super Kings,0.1514792899408284
+128,Mumbai Indians,Mumbai Indians,0.15266272189349112
+129,Chennai Super Kings,Chennai Super Kings,0.15384615384615385
+130,Mumbai Indians,Mumbai Indians,0.15502958579881657
+131,Delhi Capitals,Delhi Capitals,0.15621301775147928
+132,Pune Warriors,Pune Warriors,0.15739644970414202
+133,Delhi Capitals,Delhi Capitals,0.15857988165680473
+134,Punjab Kings,Punjab Kings,0.15976331360946747
+135,Rajasthan Royals,Rajasthan Royals,0.16094674556213018
+136,Delhi Capitals,Delhi Capitals,0.1621301775147929
+137,Royal Challengers Bangalore,Royal Challengers Bangalore,0.16331360946745563
+138,Kolkata Knight Riders,Kolkata Knight Riders,0.16449704142011834
+139,Deccan Chargers,Deccan Chargers,0.16568047337278108
+140,Punjab Kings,Punjab Kings,0.1668639053254438
+141,Kolkata Knight Riders,Kolkata Knight Riders,0.1680473372781065
+142,Delhi Capitals,Delhi Capitals,0.16923076923076924
+143,Mumbai Indians,Mumbai Indians,0.17041420118343195
+144,Deccan Chargers,Deccan Chargers,0.17159763313609466
+145,Punjab Kings,Punjab Kings,0.1727810650887574
+146,Mumbai Indians,Mumbai Indians,0.1739644970414201
+147,Chennai Super Kings,Chennai Super Kings,0.17514792899408285
+148,Kolkata Knight Riders,Kolkata Knight Riders,0.17633136094674556
+149,Rajasthan Royals,Rajasthan Royals,0.17751479289940827
+150,Mumbai Indians,Mumbai Indians,0.178698224852071
+151,Royal Challengers Bangalore,Royal Challengers Bangalore,0.17988165680473372
+152,Royal Challengers Bangalore,Royal Challengers Bangalore,0.18106508875739644
+153,Chennai Super Kings,Chennai Super Kings,0.18224852071005918
+154,Mumbai Indians,Mumbai Indians,0.1834319526627219
+155,Chennai Super Kings,Chennai Super Kings,0.18461538461538463
+156,Rajasthan Royals,Rajasthan Royals,0.18579881656804734
+157,Mumbai Indians,Mumbai Indians,0.18698224852071005
+158,Chennai Super Kings,Chennai Super Kings,0.1881656804733728
+159,Punjab Kings,Punjab Kings,0.1893491124260355
+160,Delhi Capitals,Delhi Capitals,0.19053254437869824
+161,Kolkata Knight Riders,Kolkata Knight Riders,0.19171597633136095
+162,Kolkata Knight Riders,Kolkata Knight Riders,0.19289940828402366
+163,Kolkata Knight Riders,Kolkata Knight Riders,0.1940828402366864
+164,Rajasthan Royals,Rajasthan Royals,0.1952662721893491
+165,Mumbai Indians,Mumbai Indians,0.19644970414201182
+166,Mumbai Indians,Mumbai Indians,0.19763313609467456
+167,Chennai Super Kings,Chennai Super Kings,0.19881656804733727
+168,Royal Challengers Bangalore,Royal Challengers Bangalore,0.2
+169,Mumbai Indians,Mumbai Indians,0.20118343195266272
+170,Chennai Super Kings,Chennai Super Kings,0.20236686390532543
+171,Kolkata Knight Riders,Kolkata Knight Riders,0.20355029585798817
+172,Rajasthan Royals,Rajasthan Royals,0.20473372781065088
+173,Pune Warriors,Pune Warriors,0.20591715976331362
+174,Royal Challengers Bangalore,Royal Challengers Bangalore,0.20710059171597633
+175,Rajasthan Royals,Rajasthan Royals,0.20828402366863905
+176,Chennai Super Kings,Chennai Super Kings,0.20946745562130178
+177,Royal Challengers Bangalore,Royal Challengers Bangalore,0.2106508875739645
+178,Punjab Kings,Punjab Kings,0.2118343195266272
+179,Mumbai Indians,Mumbai Indians,0.21301775147928995
+180,Rajasthan Royals,Rajasthan Royals,0.21420118343195266
+181,Mumbai Indians,Mumbai Indians,0.2153846153846154
+182,Chennai Super Kings,Chennai Super Kings,0.2165680473372781
+183,Chennai Super Kings,Chennai Super Kings,0.21775147928994082
+184,Royal Challengers Bangalore,Royal Challengers Bangalore,0.21893491124260356
+185,Punjab Kings,Punjab Kings,0.22011834319526627
+186,Mumbai Indians,Mumbai Indians,0.22130177514792898
+187,Mumbai Indians,Mumbai Indians,0.22248520710059172
+188,Rajasthan Royals,Rajasthan Royals,0.22366863905325443
+189,Kolkata Knight Riders,Kolkata Knight Riders,0.22485207100591717
+190,Kolkata Knight Riders,Kolkata Knight Riders,0.22603550295857988
+191,Rajasthan Royals,Rajasthan Royals,0.2272189349112426
+192,Punjab Kings,Punjab Kings,0.22840236686390533
+193,Chennai Super Kings,Chennai Super Kings,0.22958579881656804
+194,Punjab Kings,Punjab Kings,0.23076923076923078
+195,Sunrisers Hyderabad,Sunrisers Hyderabad,0.2319526627218935
+196,Pune Warriors,Pune Warriors,0.2331360946745562
+197,Chennai Super Kings,Chennai Super Kings,0.23431952662721894
+198,Mumbai Indians,Mumbai Indians,0.23550295857988165
+199,Kolkata Knight Riders,Kolkata Knight Riders,0.23668639053254437
+200,Royal Challengers Bangalore,Royal Challengers Bangalore,0.2378698224852071
+201,Rajasthan Royals,Rajasthan Royals,0.23905325443786982
+202,Royal Challengers Bangalore,Royal Challengers Bangalore,0.24023668639053256
+203,Punjab Kings,Punjab Kings,0.24142011834319527
+204,Chennai Super Kings,Chennai Super Kings,0.24260355029585798
+205,Sunrisers Hyderabad,Sunrisers Hyderabad,0.24378698224852072
+206,Rajasthan Royals,Rajasthan Royals,0.24497041420118343
+207,Punjab Kings,Punjab Kings,0.24615384615384617
+208,Rajasthan Royals,Rajasthan Royals,0.24733727810650888
+209,Chennai Super Kings,Chennai Super Kings,0.2485207100591716
+210,Rajasthan Royals,Rajasthan Royals,0.24970414201183433
+211,Royal Challengers Bangalore,Royal Challengers Bangalore,0.25088757396449707
+212,Chennai Super Kings,Chennai Super Kings,0.25207100591715975
+213,Sunrisers Hyderabad,Sunrisers Hyderabad,0.2532544378698225
+214,Chennai Super Kings,Chennai Super Kings,0.25443786982248523
+215,Kolkata Knight Riders,Kolkata Knight Riders,0.2556213017751479
+216,Punjab Kings,Punjab Kings,0.25680473372781065
+217,Kolkata Knight Riders,Kolkata Knight Riders,0.2579881656804734
+218,Mumbai Indians,Mumbai Indians,0.2591715976331361
+219,Punjab Kings,Punjab Kings,0.2603550295857988
+220,Kolkata Knight Riders,Kolkata Knight Riders,0.26153846153846155
+221,Mumbai Indians,Mumbai Indians,0.26272189349112424
+222,Sunrisers Hyderabad,Sunrisers Hyderabad,0.263905325443787
+223,Chennai Super Kings,Chennai Super Kings,0.2650887573964497
+224,Kolkata Knight Riders,Kolkata Knight Riders,0.26627218934911245
+225,Punjab Kings,Punjab Kings,0.26745562130177514
+226,Mumbai Indians,Mumbai Indians,0.2686390532544379
+227,Chennai Super Kings,Chennai Super Kings,0.2698224852071006
+228,Kolkata Knight Riders,Kolkata Knight Riders,0.2710059171597633
+229,Kolkata Knight Riders,Kolkata Knight Riders,0.27218934911242604
+230,Chennai Super Kings,Chennai Super Kings,0.2733727810650888
+231,Royal Challengers Bangalore,Royal Challengers Bangalore,0.27455621301775146
+232,Rajasthan Royals,Rajasthan Royals,0.2757396449704142
+233,Sunrisers Hyderabad,Sunrisers Hyderabad,0.27692307692307694
+234,Kolkata Knight Riders,Kolkata Knight Riders,0.2781065088757396
+235,Rajasthan Royals,Rajasthan Royals,0.27928994082840236
+236,Delhi Capitals,Delhi Capitals,0.2804733727810651
+237,Kolkata Knight Riders,Kolkata Knight Riders,0.2816568047337278
+238,Kolkata Knight Riders,Kolkata Knight Riders,0.2828402366863905
+239,Punjab Kings,Punjab Kings,0.28402366863905326
+240,Royal Challengers Bangalore,Royal Challengers Bangalore,0.285207100591716
+241,Mumbai Indians,Mumbai Indians,0.2863905325443787
+242,Chennai Super Kings,Chennai Super Kings,0.2875739644970414
+243,Royal Challengers Bangalore,Royal Challengers Bangalore,0.28875739644970416
+244,Kolkata Knight Riders,Kolkata Knight Riders,0.28994082840236685
+245,Delhi Capitals,Delhi Capitals,0.2911242603550296
+246,Royal Challengers Bangalore,Royal Challengers Bangalore,0.2923076923076923
+247,Mumbai Indians,Mumbai Indians,0.293491124260355
+248,Chennai Super Kings,Chennai Super Kings,0.29467455621301775
+249,Sunrisers Hyderabad,Sunrisers Hyderabad,0.2958579881656805
+250,Royal Challengers Bangalore,Royal Challengers Bangalore,0.29704142011834317
+251,Chennai Super Kings,Chennai Super Kings,0.2982248520710059
+252,Sunrisers Hyderabad,Sunrisers Hyderabad,0.29940828402366865
+253,Rajasthan Royals,Rajasthan Royals,0.3005917159763314
+254,Mumbai Indians,Mumbai Indians,0.30177514792899407
+255,Royal Challengers Bangalore,Royal Challengers Bangalore,0.3029585798816568
+256,Chennai Super Kings,Chennai Super Kings,0.30414201183431955
+257,Kolkata Knight Riders,Kolkata Knight Riders,0.30532544378698223
+258,Gujarat Lions,Gujarat Lions,0.30650887573964497
+259,Mumbai Indians,Mumbai Indians,0.3076923076923077
+260,Delhi Capitals,Delhi Capitals,0.3088757396449704
+261,Gujarat Lions,Gujarat Lions,0.31005917159763313
+262,Delhi Capitals,Delhi Capitals,0.31124260355029587
+263,Sunrisers Hyderabad,Sunrisers Hyderabad,0.31242603550295855
+264,Kolkata Knight Riders,Kolkata Knight Riders,0.3136094674556213
+265,Mumbai Indians,Mumbai Indians,0.31479289940828403
+266,Sunrisers Hyderabad,Sunrisers Hyderabad,0.31597633136094677
+267,Sunrisers Hyderabad,Sunrisers Hyderabad,0.31715976331360946
+268,Kolkata Knight Riders,Kolkata Knight Riders,0.3183431952662722
+269,Rising Pune Supergiants,Rising Pune Supergiants,0.31952662721893493
+270,Mumbai Indians,Mumbai Indians,0.3207100591715976
+271,Gujarat Lions,Gujarat Lions,0.32189349112426036
+272,Mumbai Indians,Mumbai Indians,0.3230769230769231
+273,Kolkata Knight Riders,Kolkata Knight Riders,0.3242603550295858
+274,Delhi Capitals,Delhi Capitals,0.3254437869822485
+275,Rising Pune Supergiants,Rising Pune Supergiants,0.32662721893491126
+276,Sunrisers Hyderabad,Sunrisers Hyderabad,0.32781065088757394
+277,Royal Challengers Bangalore,Royal Challengers Bangalore,0.3289940828402367
+278,Gujarat Lions,Gujarat Lions,0.3301775147928994
+279,Sunrisers Hyderabad,Sunrisers Hyderabad,0.33136094674556216
+280,Mumbai Indians,Mumbai Indians,0.33254437869822484
+281,Delhi Capitals,Delhi Capitals,0.3337278106508876
+282,Royal Challengers Bangalore,Royal Challengers Bangalore,0.3349112426035503
+283,Rising Pune Supergiants,Rising Pune Supergiants,0.336094674556213
+284,Gujarat Lions,Gujarat Lions,0.33727810650887574
+285,Delhi Capitals,Delhi Capitals,0.3384615384615385
+286,Gujarat Lions,Gujarat Lions,0.33964497041420116
+287,Royal Challengers Bangalore,Royal Challengers Bangalore,0.3408284023668639
+288,Royal Challengers Bangalore,Royal Challengers Bangalore,0.34201183431952664
+289,Sunrisers Hyderabad,Sunrisers Hyderabad,0.3431952662721893
+290,Sunrisers Hyderabad,Sunrisers Hyderabad,0.34437869822485206
+291,Rising Pune Supergiants,Rising Pune Supergiants,0.3455621301775148
+292,Kolkata Knight Riders,Kolkata Knight Riders,0.3467455621301775
+293,Punjab Kings,Punjab Kings,0.3479289940828402
+294,Royal Challengers Bangalore,Royal Challengers Bangalore,0.34911242603550297
+295,Sunrisers Hyderabad,Sunrisers Hyderabad,0.3502958579881657
+296,Mumbai Indians,Mumbai Indians,0.3514792899408284
+297,Mumbai Indians,Mumbai Indians,0.3526627218934911
+298,Kolkata Knight Riders,Kolkata Knight Riders,0.35384615384615387
+299,Mumbai Indians,Mumbai Indians,0.35502958579881655
+300,Gujarat Lions,Gujarat Lions,0.3562130177514793
+301,Delhi Capitals,Delhi Capitals,0.357396449704142
+302,Mumbai Indians,Mumbai Indians,0.3585798816568047
+303,Sunrisers Hyderabad,Sunrisers Hyderabad,0.35976331360946745
+304,Mumbai Indians,Mumbai Indians,0.3609467455621302
+305,Gujarat Lions,Gujarat Lions,0.3621301775147929
+306,Rising Pune Supergiants,Rising Pune Supergiants,0.3633136094674556
+307,Kolkata Knight Riders,Kolkata Knight Riders,0.36449704142011835
+308,Gujarat Lions,Gujarat Lions,0.3656804733727811
+309,Kolkata Knight Riders,Kolkata Knight Riders,0.3668639053254438
+310,Punjab Kings,Punjab Kings,0.3680473372781065
+311,Rising Pune Supergiants,Rising Pune Supergiants,0.36923076923076925
+312,Delhi Capitals,Delhi Capitals,0.37041420118343193
+313,Rising Pune Supergiants,Rising Pune Supergiants,0.3715976331360947
+314,Delhi Capitals,Delhi Capitals,0.3727810650887574
+315,Kolkata Knight Riders,Kolkata Knight Riders,0.3739644970414201
+316,Gujarat Lions,Gujarat Lions,0.37514792899408284
+317,Delhi Capitals,Delhi Capitals,0.3763313609467456
+318,Delhi Capitals,Delhi Capitals,0.37751479289940826
+319,Sunrisers Hyderabad,Sunrisers Hyderabad,0.378698224852071
+320,Rising Pune Supergiants,Rising Pune Supergiants,0.37988165680473374
+321,Royal Challengers Bangalore,Royal Challengers Bangalore,0.3810650887573965
+322,Kolkata Knight Riders,Kolkata Knight Riders,0.38224852071005916
+323,Mumbai Indians,Mumbai Indians,0.3834319526627219
+324,Mumbai Indians,Mumbai Indians,0.38461538461538464
+325,Chennai Super Kings,Chennai Super Kings,0.3857988165680473
+326,Punjab Kings,Punjab Kings,0.38698224852071006
+327,Kolkata Knight Riders,Kolkata Knight Riders,0.3881656804733728
+328,Sunrisers Hyderabad,Sunrisers Hyderabad,0.3893491124260355
+329,Chennai Super Kings,Chennai Super Kings,0.3905325443786982
+330,Sunrisers Hyderabad,Sunrisers Hyderabad,0.39171597633136096
+331,Royal Challengers Bangalore,Royal Challengers Bangalore,0.39289940828402364
+332,Delhi Capitals,Delhi Capitals,0.3940828402366864
+333,Sunrisers Hyderabad,Sunrisers Hyderabad,0.3952662721893491
+334,Kolkata Knight Riders,Kolkata Knight Riders,0.39644970414201186
+335,Punjab Kings,Punjab Kings,0.39763313609467454
+336,Punjab Kings,Punjab Kings,0.3988165680473373
+337,Royal Challengers Bangalore,Royal Challengers Bangalore,0.4
+338,Chennai Super Kings,Chennai Super Kings,0.4011834319526627
+339,Mumbai Indians,Mumbai Indians,0.40236686390532544
+340,Sunrisers Hyderabad,Sunrisers Hyderabad,0.4035502958579882
+341,Kolkata Knight Riders,Kolkata Knight Riders,0.40473372781065087
+342,Kolkata Knight Riders,Kolkata Knight Riders,0.4059171597633136
+343,Mumbai Indians,Mumbai Indians,0.40710059171597635
+344,Chennai Super Kings,Chennai Super Kings,0.40828402366863903
+345,Punjab Kings,Punjab Kings,0.40946745562130177
+346,Rajasthan Royals,Rajasthan Royals,0.4106508875739645
+347,Royal Challengers Bangalore,Royal Challengers Bangalore,0.41183431952662725
+348,Chennai Super Kings,Chennai Super Kings,0.41301775147928993
+349,Rajasthan Royals,Rajasthan Royals,0.41420118343195267
+350,Royal Challengers Bangalore,Royal Challengers Bangalore,0.4153846153846154
+351,Kolkata Knight Riders,Kolkata Knight Riders,0.4165680473372781
+352,Rajasthan Royals,Rajasthan Royals,0.41775147928994083
+353,Delhi Capitals,Delhi Capitals,0.41893491124260357
+354,Chennai Super Kings,Chennai Super Kings,0.42011834319526625
+355,Chennai Super Kings,Chennai Super Kings,0.421301775147929
+356,Chennai Super Kings,Chennai Super Kings,0.42248520710059173
+357,Chennai Super Kings,Chennai Super Kings,0.4236686390532544
+358,Kolkata Knight Riders,Kolkata Knight Riders,0.42485207100591715
+359,Punjab Kings,Punjab Kings,0.4260355029585799
+360,Delhi Capitals,Delhi Capitals,0.4272189349112426
+361,Rajasthan Royals,Rajasthan Royals,0.4284023668639053
+362,Sunrisers Hyderabad,Sunrisers Hyderabad,0.42958579881656805
+363,Kolkata Knight Riders,Kolkata Knight Riders,0.4307692307692308
+364,Chennai Super Kings,Chennai Super Kings,0.4319526627218935
+365,Delhi Capitals,Delhi Capitals,0.4331360946745562
+366,Kolkata Knight Riders,Kolkata Knight Riders,0.43431952662721895
+367,Punjab Kings,Punjab Kings,0.43550295857988164
+368,Chennai Super Kings,Chennai Super Kings,0.4366863905325444
+369,Mumbai Indians,Mumbai Indians,0.4378698224852071
+370,Chennai Super Kings,Chennai Super Kings,0.4390532544378698
+371,Delhi Capitals,Delhi Capitals,0.44023668639053254
+372,Rajasthan Royals,Rajasthan Royals,0.4414201183431953
+373,Royal Challengers Bangalore,Royal Challengers Bangalore,0.44260355029585796
+374,Chennai Super Kings,Chennai Super Kings,0.4437869822485207
+375,Mumbai Indians,Mumbai Indians,0.44497041420118344
+376,Mumbai Indians,Mumbai Indians,0.4461538461538462
+377,Rajasthan Royals,Rajasthan Royals,0.44733727810650886
+378,Delhi Capitals,Delhi Capitals,0.4485207100591716
+379,Sunrisers Hyderabad,Sunrisers Hyderabad,0.44970414201183434
+380,Delhi Capitals,Delhi Capitals,0.450887573964497
+381,Chennai Super Kings,Chennai Super Kings,0.45207100591715976
+382,Rajasthan Royals,Rajasthan Royals,0.4532544378698225
+383,Rajasthan Royals,Rajasthan Royals,0.4544378698224852
+384,Delhi Capitals,Delhi Capitals,0.4556213017751479
+385,Mumbai Indians,Mumbai Indians,0.45680473372781066
+386,Kolkata Knight Riders,Kolkata Knight Riders,0.45798816568047335
+387,Royal Challengers Bangalore,Royal Challengers Bangalore,0.4591715976331361
+388,Punjab Kings,Punjab Kings,0.4603550295857988
+389,Mumbai Indians,Mumbai Indians,0.46153846153846156
+390,Delhi Capitals,Delhi Capitals,0.46272189349112425
+391,Chennai Super Kings,Chennai Super Kings,0.463905325443787
+392,Mumbai Indians,Mumbai Indians,0.4650887573964497
+393,Chennai Super Kings,Chennai Super Kings,0.4662721893491124
+394,Sunrisers Hyderabad,Sunrisers Hyderabad,0.46745562130177515
+395,Mumbai Indians,Mumbai Indians,0.4686390532544379
+396,Kolkata Knight Riders,Kolkata Knight Riders,0.46982248520710057
+397,Sunrisers Hyderabad,Sunrisers Hyderabad,0.4710059171597633
+398,Delhi Capitals,Delhi Capitals,0.47218934911242605
+399,Chennai Super Kings,Chennai Super Kings,0.47337278106508873
+400,Mumbai Indians,Mumbai Indians,0.47455621301775147
+401,Sunrisers Hyderabad,Sunrisers Hyderabad,0.4757396449704142
+402,Sunrisers Hyderabad,Sunrisers Hyderabad,0.47692307692307695
+403,Punjab Kings,Punjab Kings,0.47810650887573963
+404,Mumbai Indians,Mumbai Indians,0.47928994082840237
+405,Kolkata Knight Riders,Kolkata Knight Riders,0.4804733727810651
+406,Royal Challengers Bangalore,Royal Challengers Bangalore,0.4816568047337278
+407,Rajasthan Royals,Rajasthan Royals,0.48284023668639053
+408,Chennai Super Kings,Chennai Super Kings,0.4840236686390533
+409,Mumbai Indians,Mumbai Indians,0.48520710059171596
+410,Chennai Super Kings,Chennai Super Kings,0.4863905325443787
+411,Rajasthan Royals,Rajasthan Royals,0.48757396449704143
+412,Mumbai Indians,Mumbai Indians,0.4887573964497041
+413,Royal Challengers Bangalore,Royal Challengers Bangalore,0.48994082840236686
+414,Sunrisers Hyderabad,Sunrisers Hyderabad,0.4911242603550296
+415,Delhi Capitals,Delhi Capitals,0.49230769230769234
+416,Sunrisers Hyderabad,Sunrisers Hyderabad,0.493491124260355
+417,Delhi Capitals,Delhi Capitals,0.49467455621301776
+418,Royal Challengers Bangalore,Royal Challengers Bangalore,0.4958579881656805
+419,Delhi Capitals,Delhi Capitals,0.4970414201183432
+420,Rajasthan Royals,Rajasthan Royals,0.4982248520710059
+421,Chennai Super Kings,Chennai Super Kings,0.49940828402366866
+422,Mumbai Indians,Mumbai Indians,0.5005917159763313
+423,Delhi Capitals,Delhi Capitals,0.5017751479289941
+424,Royal Challengers Bangalore,Royal Challengers Bangalore,0.5029585798816568
+425,Royal Challengers Bangalore,Royal Challengers Bangalore,0.5041420118343195
+426,Punjab Kings,Punjab Kings,0.5053254437869823
+427,Rajasthan Royals,Rajasthan Royals,0.506508875739645
+428,Delhi Capitals,Delhi Capitals,0.5076923076923077
+429,Chennai Super Kings,Chennai Super Kings,0.5088757396449705
+430,Kolkata Knight Riders,Kolkata Knight Riders,0.5100591715976331
+431,Delhi Capitals,Delhi Capitals,0.5112426035502958
+432,Mumbai Indians,Mumbai Indians,0.5124260355029586
+433,Mumbai Indians,Mumbai Indians,0.5136094674556213
+434,Delhi Capitals,Delhi Capitals,0.514792899408284
